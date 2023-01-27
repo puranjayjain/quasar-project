@@ -1,0 +1,5 @@
+provider: 'github'
+owner: 'puranjayjain'
+token: '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'
+repo: 'quasar-project'
+private: true
